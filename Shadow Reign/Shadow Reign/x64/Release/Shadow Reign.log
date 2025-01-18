@@ -1,0 +1,10 @@
+﻿  MainGameCode.cpp
+C:\Users\might\OneDrive - London Metropolitan University\Desktop\Mighty Game Creations\Shadow Reign\Shadow Reign\MainGameCode.cpp(179,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\might\OneDrive - London Metropolitan University\Desktop\Mighty Game Creations\Shadow Reign\Shadow Reign\MainGameCode.cpp(227,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\might\OneDrive - London Metropolitan University\Desktop\Mighty Game Creations\Shadow Reign\Shadow Reign\MainGameCode.cpp(443,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  4 of 367 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Shadow Reign.vcxproj -> C:\Users\might\OneDrive - London Metropolitan University\Desktop\Mighty Game Creations\Shadow Reign\x64\Release\Shadow Reign.exe
