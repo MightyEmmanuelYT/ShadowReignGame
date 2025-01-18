@@ -1,6 +1,6 @@
 # README
 
-#Game Name: Shadow Reign
+# **Game Name: Shadow Reign**
 
 ## **How to Run the Game**
 1. **Install Required Tools**:
